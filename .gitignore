@@ -1,0 +1,7 @@
+images/
+imagens/
+img/
+media/
+
+*.txt
+.env
